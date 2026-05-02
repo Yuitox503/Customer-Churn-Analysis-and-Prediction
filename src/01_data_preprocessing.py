@@ -55,9 +55,6 @@ def save_data(df: pd.DataFrame, output_path: str):
 # =====================================
 
 def run_pipeline(input_path: str, output_path: str):
-    """
-    Full preprocessing pipeline
-    """
 
     # Load data
     df = load_data(input_path)
