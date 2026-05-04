@@ -90,7 +90,10 @@ The project includes an interactive dashboard with the following sections:
 - Deploy the model as a web application (e.g., Streamlit)  
 - Enable real-time prediction capabilities  
 - Perform advanced hyperparameter tuning  
-- Integrate SQL for scalable data pipelines  
+- Integrate SQL for scalable data pipelines
+  
+## Dataset Link
+https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset?select=Telco_customer_churn_IBM_dataset
 
 ## Author
-Ferdinand Taslim
+@Yuitox503
