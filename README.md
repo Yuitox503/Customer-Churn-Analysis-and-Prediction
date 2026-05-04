@@ -1,5 +1,5 @@
 # Customer Churn Prediction & Analytics
-
+![image alt](https://github.com/Yuitox503/Customer-Churn-Analysis-and-Prediction/blob/main/images/dashboard%20screenshots/01_overview_page.png?raw=true)
 
 ## Project Overview
 This project focuses on analyzing and predicting customer churn using machine learning and business intelligence tools. The objective is to identify high-risk customers, understand key churn drivers, and provide actionable insights to improve customer retention.
@@ -53,18 +53,22 @@ The project includes an interactive dashboard with the following sections:
 - Key performance indicators such as churn rate, total customers, and revenue  
 - Overall churn distribution  
 
+![image alt](https://github.com/Yuitox503/Customer-Churn-Analysis-and-Prediction/blob/main/images/dashboard%20screenshots/02_customer_behaviour_count.png?raw=true)
 ### 2. Customer Behaviour
 - Churn analysis by contract type, tenure, and payment method  
 - Demographic segmentation  
 
+![image alt](https://github.com/Yuitox503/Customer-Churn-Analysis-and-Prediction/blob/main/images/dashboard%20screenshots/04_services_and_product_usage_count.png?raw=true)
 ### 3. Services and Product Usage
 - Impact of service features (e.g., security, streaming, support) on churn  
 
+![image alt](https://github.com/Yuitox503/Customer-Churn-Analysis-and-Prediction/blob/main/images/dashboard%20screenshots/06_revenue_and_risk_analysis.png?raw=true)
 ### 4. Revenue and Risk Analysis
 - Financial impact of churn  
 - Identification of high-risk customer segments  
 - Analysis of churn reasons  
 
+![image alt](https://github.com/Yuitox503/Customer-Churn-Analysis-and-Prediction/blob/main/images/dashboard%20screenshots/08_customer_risk_and_prediction.png?raw=true)
 ### 5. Customer Risk and Prediction
 - Churn probability distribution  
 - Identification of high-risk customers  
