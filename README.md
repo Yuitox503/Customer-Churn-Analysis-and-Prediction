@@ -37,6 +37,7 @@ Models implemented:
 
 ### Final Model: Optimized Random Forest
 
+![image alt](https://github.com/Yuitox503/Customer-Churn-Analysis-and-Prediction/blob/main/images/jupyter%20notebook%20screenshots/final_model_result.png?raw=true)
 Performance:
 - Accuracy: ~77.5%  
 - Recall (Churn): ~73%  
@@ -47,6 +48,7 @@ The final model was selected based on its balanced performance in identifying ch
 ## Power BI Dashboard
 The project includes an interactive dashboard with the following sections:
 
+![image alt](https://github.com/Yuitox503/Customer-Churn-Analysis-and-Prediction/blob/main/images/dashboard%20screenshots/01_overview_page.png?raw=true)
 ### 1. Overview
 - Key performance indicators such as churn rate, total customers, and revenue  
 - Overall churn distribution  
@@ -85,8 +87,6 @@ The project includes an interactive dashboard with the following sections:
 - Enable real-time prediction capabilities  
 - Perform advanced hyperparameter tuning  
 - Integrate SQL for scalable data pipelines  
-
----
 
 ## Author
 Ferdinand Taslim
