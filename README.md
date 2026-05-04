@@ -13,12 +13,6 @@ The project combines data analysis, machine learning, and interactive dashboardi
 - Provide actionable insights to reduce customer attrition  
 
 ## Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://img.shields.io/badge/Power_Bi-F2C811%3Fstyle%3Dflat-square%26logo%3Dcodeforces%26logoColor%3Dblack&ved=2ahUKEwjor9uApZ-UAxWCxzgGHT-cAu4QFnoECCAQAQ&usg=AOvVaw0REPlERoAVc3mfUmtDmNrA" />
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://img.shields.io/badge/Jupyter%2520Notebook-F37626%3Fstyle%3Dflat-square%26logo%3Djupyter%26logoColor%3Dwhite&ved=2ahUKEwi3uOaQpZ-UAxUOaCoJHUaoIdcQFnoECAwQAQ&usg=AOvVaw3ZibNyS5GTcrYOYhm9E_pc" />
-</div>
-
 - Python (Pandas, NumPy, Scikit-learn)  
 - Power BI (Dashboard and Visualization)  
 - Jupyter Notebook (EDA and Modeling)
