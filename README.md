@@ -13,6 +13,11 @@ The project combines data analysis, machine learning, and interactive dashboardi
 - Provide actionable insights to reduce customer attrition  
 
 ## Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
 - Python (Pandas, NumPy, Scikit-learn)  
 - Power BI (Dashboard and Visualization)  
 - Jupyter Notebook (EDA and Modeling)
@@ -96,4 +101,4 @@ The project includes an interactive dashboard with the following sections:
 https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset?select=Telco_customer_churn_IBM_dataset
 
 ## Author
-@Yuitox503
+[@Yuitox503](https://github.com/Yuitox503)
